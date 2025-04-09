@@ -2,10 +2,10 @@
 body {
   background-color: rgb(245, 245,220);  
   h1 {
-  font-size: 50px; /* Taille du texte en pixels */
+  font-size: 50px;
 }
 
 p {
-  font-size: 30px; /* Taille du texte en pixels */
+  font-size: 30px; 
 }
 

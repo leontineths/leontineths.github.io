@@ -1,6 +1,10 @@
 /* Fond de la page */
 body {
   background-color: rgb(245, 245,220);  
+  font-family: "lucida consol";
+  width: 100px;
+  height: 30px;
+  border: none;
  
 }
 

@@ -1,10 +1,8 @@
-/* Fond de la page */
 body {
-  background-color: rgb(245, 245,220);  
-  font-family: "lucida consol";
-  width: 100px;
-  height: 30px;
-  border: none;
- 
+  background-color: rgb(245, 245, 220); /* beige clair */
+  font-family: "Lucida Console", monospace;
+  margin: 0;
+  padding: 0;
 }
+
 

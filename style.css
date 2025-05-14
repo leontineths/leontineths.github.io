@@ -4,5 +4,12 @@ body {
   margin: 10;
   padding: 5;
 }
+header {
+    text-align: center; 
+}
 
+header img {
+    width: 80%; 
+    height: auto; 
+}
 

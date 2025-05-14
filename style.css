@@ -9,13 +9,13 @@ header {
 }
 
 header img {
-    width: 25%; 
+    width: 35%; 
     height: auto; 
 }
 header img {
     display: block;  
     margin-left: auto;
     margin-right: auto; 
-    width: 25%; 
+    width: 35%; 
     height: auto;
 }
